@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/adriellemorais/">
 <img align ="center" alt="Linkedin da Adrielle Morais" height="35" width="35" src="https://image.flaticon.com/icons/png/128/145/145807.png">
 </a>
-<a href="https://www.instagram.com/dev.dri/">
+<a href="https://www.instagram.com/devdrimmorais/">
 <img align ="center" alt="Instagram da Adrielle Morais" height="35" width="35" src="https://image.flaticon.com/icons/png/128/2111/2111463.png">
 </a>
 <a href="https://wa.me/5535988210465">
