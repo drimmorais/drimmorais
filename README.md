@@ -5,16 +5,16 @@
 
 ### You can also find me on:
 <a href="https://www.linkedin.com/in/adriellemorais/">
-<img align ="center" alt="Linkedin da Adrielle Morais" height="35" width="35" src="![image](https://user-images.githubusercontent.com/46358256/170160510-c5bc1f85-5b25-4434-8bd1-9619f4eca092.png)">
+<img align ="center" alt="Linkedin da Adrielle Morais" height="35" width="35" src="https://ibb.co/xzn2rp3">
 </a>
 <a href="https://www.instagram.com/devdrimmorais/">
-<img align ="center" alt="Instagram da Adrielle Morais" height="35" width="35" src="https://image.flaticon.com/icons/png/128/2111/2111463.png">
+<img align ="center" alt="Instagram da Adrielle Morais" height="35" width="35" src="https://ibb.co/jh0v1MM">
 </a>
 <a href="https://wa.me/5535988210465">
-<img align ="center" alt="Linkedin da Adrielle Morais" height="35" width="35" src="https://image.flaticon.com/icons/png/128/2111/2111728.png">
+<img align ="center" alt="Linkedin da Adrielle Morais" height="35" width="35" src="https://ibb.co/f2DCLHD">
 </a>
 <a href="https://t.me/drimmorais">
-<img align ="center" alt="Linkedin da Adrielle Morais" height="35" width="35" src="https://image.flaticon.com/icons/png/128/2111/2111646.png">
+<img align ="center" alt="Linkedin da Adrielle Morais" height="35" width="35" src="https://ibb.co/zbCqYZd">
 </a>
 <a href="mailto:adriellefmorais@gmail.com">
 <img align ="center" alt="Linkedin da Adrielle Morais" height="35" width="35" src="https://image.flaticon.com/icons/png/512/2111/2111450.png">
