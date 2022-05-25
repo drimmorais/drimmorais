@@ -5,7 +5,7 @@
 
 ### You can also find me on:
 <a href="https://www.linkedin.com/in/adriellemorais/">
-<img align ="center" alt="Linkedin da Adrielle Morais" height="35" width="35" src="https://image.flaticon.com/icons/png/128/145/145807.png">
+<img align ="center" alt="Linkedin da Adrielle Morais" height="35" width="35" src="![image](https://user-images.githubusercontent.com/46358256/170160510-c5bc1f85-5b25-4434-8bd1-9619f4eca092.png)">
 </a>
 <a href="https://www.instagram.com/devdrimmorais/">
 <img align ="center" alt="Instagram da Adrielle Morais" height="35" width="35" src="https://image.flaticon.com/icons/png/128/2111/2111463.png">
